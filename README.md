@@ -50,7 +50,7 @@
 1. Install virtualenv by command ```pip install virtualenv```
 2. Open terminal where frontend and backend folder located and type command ```virtualenv venv```
 3. After creating virtial environment we need to activate it
-    - In windows command is ```venv\Script\activate```
+    - In windows command is ```venv\Scripts\activate```
     - In linux based operating system and mac command is ```source venv/scripts/activate```
 3. Package you need to install
     - ```pip install -r requirements.txt```
