@@ -1,4 +1,4 @@
-# Getting Started with Create React App (IN PROGRESS)
+# Django + React Ecommerce web Application (IN PROGRESS)
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
